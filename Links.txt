@@ -1,0 +1,16 @@
+Code - https://github.com/nakov/Practical-Cryptography-for-Developers-Book/blob/master/asymmetric-key-ciphers/ecc-encryption-decryption.md
+ECC - https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc#:~:text=In%20most%20applications%20(like%20OpenSSL,secp256k1%20and%20Curve25519%20)%2C%20283%2D
+
+Dataset - https://www.kaggle.com/c/diabetes-classification/data
+
+AES and RSA - https://github.com/taoyimin/rsa-aes-python
+
+
+brainpool - https://github.com/nakov/Practical-Cryptography-for-Developers-Book/blob/master/asymmetric-key-ciphers/ecc-encryption-decryption.md
+
+
+
+p1707 - https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc#:~:text=In%20most%20applications%20(like%20OpenSSL,secp256k1%20and%20Curve25519%20)%2C%20283%2D
+
+
+secp192r1 - https://wizardforcel.gitbooks.io/practical-cryptography-for-developers-book/content/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc.html
